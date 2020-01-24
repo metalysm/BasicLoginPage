@@ -1,3 +1,3 @@
 # BasicLoginPage
 
-Basit bir login sayfası düzeni.
+React Native kullanılarak oluşturulmuş basit bir mobil login sayfası düzeni.
